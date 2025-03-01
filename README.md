@@ -5,7 +5,7 @@ I make sure to complete their assignments a day or a few days before they are du
 My role also involves helping them troubleshoot any issues they might encounter while coding, offering resources, and sharing best practices. 
 It’s incredibly fulfilling to support others in their learning journey while also refining my own skills.
 
-![image](https://github.com/user-attachments/assets/800e34c5-7576-4f51-bd61-9ed4677ae013)
+![image](https://github.com/user-attachments/assets/bbed08af-62c2-474e-b3f0-cf1c73ddd902)
 
 # React + Vite
 
